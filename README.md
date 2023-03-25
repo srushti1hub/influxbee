@@ -1,0 +1,2 @@
+# influxbee
+InfluxData + Golang
